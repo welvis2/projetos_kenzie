@@ -1,0 +1,14 @@
+.text-center {
+  text-align: center;
+}
+.color-blue {
+  color: #0000ff;
+}
+.background-blue {
+  background-color: #0000ff;
+  color: #ffffff;
+}
+.background-black {
+  background-color: #000000;
+  color: #ffffff;
+}
